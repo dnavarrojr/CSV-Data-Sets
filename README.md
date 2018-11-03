@@ -3,7 +3,7 @@ CSV File Data Sets
 
 ### free-zipcode-database.csv
 
-Zipcode Database with all Cities for each Zip Code. 
+Zipcode Database with all Cities for each Zip Code. Source: http://federalgovernmentzipcodes.us/
 
 ### zipcode-database-USA.csv
 
