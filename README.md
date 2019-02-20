@@ -9,6 +9,6 @@ Zipcode Database with all Cities for each Zip Code. Source: http://federalgovern
 
 Zipcode Database with Primary Cities for each Zip Code. Only Zipcode, City, State, Latitude, Longitude. Data from 2012.
 
-### NWS_WX_stations.csv
+### nws_wx_stations.csv
 
-National Weather Service Official Stations Data.
+National Weather Service Official Stations Data.  City data may not be accurate.
