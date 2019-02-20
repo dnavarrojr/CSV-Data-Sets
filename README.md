@@ -8,3 +8,7 @@ Zipcode Database with all Cities for each Zip Code. Source: http://federalgovern
 ### zipcode-database-USA.csv
 
 Zipcode Database with Primary Cities for each Zip Code. Only Zipcode, City, State, Latitude, Longitude. Data from 2012.
+
+### NWS_WX_stations.csv
+
+National Weather Service Official Stations Data.
